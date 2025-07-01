@@ -67,3 +67,14 @@ Exploratory data analysis and reporting
 📊 Sample Visualization
 
 Here’s an example of a country-wise comparison chart showing economic freedom vs. prosperity index:
+[📊 Download Tableau Dashboard – Economic Index Insights](Economic%20Index%20valuable%20Insights%202.twbx)
+
+
+✅ Final Note
+This project aims to spark thoughtful discussions on how economic freedom shapes nations. We hope it provides clarity and insight for policymakers, researchers, and anyone interested in global economic trends.
+
+## 👩‍💻 About Me
+
+Hi! I'm **Shaik Kashifa Misba**, a passionate Data Science undergraduate with a strong interest in data analytics, visualization, and impactful insights. I enjoy using tools like Python, Tableau, and Power BI to uncover stories hidden in data.
+
+Connect with me on [LinkedIn](www.linkedin.com/in/kashifa-misba-shaik-286b61321) to collaborate or explore more projects together!
